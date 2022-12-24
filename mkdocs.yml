@@ -1,15 +1,7 @@
-site_name: MkDocs Template
-site_url: https://learn-with-me.github.io/mkdocs-template/
-repo_url: https://github.com/learn-with-me/mkdocs-template
+site_name: Best Practices Templates
+site_url: https://learn-with-me.github.io/docs-best-practices-templates/
+repo_url: https://github.com/learn-with-me/docs-best-practices-templates
 docs_dir: 'src'
-
-# nav:
-#     ## add your custom pages hierarchy here
-#     - Page 1: index.md
-#     - Page 2: index.md
-#     - Page 3: index.md
-#     - Page 4: index.md
-#     - About: about.md
 
 theme:
   name: material
@@ -44,7 +36,7 @@ theme:
   plugins:
     - tags
 extra:
-  homepage: https://learn-with-me.github.io/mkdocs-template/
+  homepage: https://learn-with-me.github.io/docs-best-practices-templates/
   copyright: Copyright &copy; 2022 - 2023 goel4ever
   analytics:
     provider: google
