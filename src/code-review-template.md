@@ -44,13 +44,13 @@ Attach screenshots if applicable
     - Do your peers a favor. Include as much information as possible
     - If you have made changes that affect the appearance or behavior of the UI, include screenshots or gifs.
 - Making PR description effective (where possible)
-  - Including example input and output of the changes, diffs from how it works currently.
-  - Comprehensive descriptions of how this will be deployed or used (even vague ideas are helpful here!).
-  - Include links to relevant context such as CMs, etc.
+    - Including example input and output of the changes, diffs from how it works currently.
+    - Comprehensive descriptions of how this will be deployed or used (even vague ideas are helpful here!).
+    - Include links to relevant context such as CMs, etc.
 - Since this is an acceptance and communication platform, please try to get at least two other people from the team involved in the PR before merging.
 - Commits Quality
-  - Simple concise and relevant commits make it easier for reviewers to breakdown the diff and review in parts, when PRs have large amount of changes
-  - At times it may not be as simple to do it, however it's worth a try
+    - Simple concise and relevant commits make it easier for reviewers to breakdown the diff and review in parts, when PRs have large amount of changes
+    - At times it may not be as simple to do it, however it's worth a try
 - If your code is not complete, add `[WIP]` (work in progress) to the pull request name.
 - You are responsible for getting your PR reviewed
 
@@ -61,8 +61,8 @@ Attach screenshots if applicable
 - Ask questions if you're curious about a decision or just want to learn more.
 - Create a corresponding task if you add a comment that should be addressed before the PR is merged.
 - Approve pull requests in one of two ways:
-  - Pull request looks good as is. Approve it.
-  - You have comments/ideas/suggestions but overall it looks good. Add tasks to be completed by the reviewee and approve.
+    - Pull request looks good as is. Approve it.
+    - You have comments/ideas/suggestions but overall it looks good. Add tasks to be completed by the reviewee and approve.
 - If you do not approve a pull request, mention why and create the tasks necessary to earn the approval.
 
 ## References
