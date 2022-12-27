@@ -2,6 +2,9 @@
 
 Always start with a few images and/or videos
 
+## Template
+
+```
 ## Inspiration
 
 > 1. Why this project exists?
@@ -45,3 +48,8 @@ Always start with a few images and/or videos
 > 1. Team members
 > 2. Supporting members
 > 3. Acknowledging dependencies
+```
+
+## References & Inspiration
+
+- Atlassian [hackathon winners 2022](https://blog.developer.atlassian.com/codegeist-2022-hackathon-winners/) blog
