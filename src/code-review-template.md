@@ -15,15 +15,17 @@ Background on the problem you’re solving, its origin, and reason for choosing 
 
 ## What high level changes did you make to the code to accomplish that goal?
 
-A bulleted list of changes. You can use the commits list that is auto-populated in the description if it is sufficiently thorough and clear.
+A bulleted list of changes.
+You can use the commits list that is auto-populated in the description if it is sufficiently thorough and clear.
 
 ## What other information should the reviewer be aware of when looking at this code?
 
-Any additional comments / context / explanations / justifications for decisions made.
+Any additional comments/context/explanations/justifications for decisions made.
 
 ## How did you test?
 
-This section would include how you tested your code changes. And if someone wishes to verify the functionality, what path they could take.
+This section would include how you tested your code changes.
+And if someone wishes to verify the functionality, what path they could take.
 
 ## [Optional] Pending
 
@@ -37,10 +39,10 @@ Attach screenshots if applicable
 
 - Make sure the right people are indicated as reviewers
 - Amount of information to include in PR description (strongly recommended)
-  - Pull Requests are where we formally communicate our intentions about how to solve problems within the team.
-  - There is a problem, though, in that you're trying to convey many hours of work to your co-workers in the space of a few minutes!
-  - Do your peers a favor. Include as much information as possible
-  - If you have made changes that affect the appearance or behavior of the UI, include screenshots or gifs.
+    - Pull Requests are where we formally communicate our intentions about how to solve problems within the team.
+    - There is a problem, though, in that you're trying to convey many hours of work to your co-workers in the space of a few minutes!
+    - Do your peers a favor. Include as much information as possible
+    - If you have made changes that affect the appearance or behavior of the UI, include screenshots or gifs.
 - Making PR description effective (where possible)
   - Including example input and output of the changes, diffs from how it works currently.
   - Comprehensive descriptions of how this will be deployed or used (even vague ideas are helpful here!).
