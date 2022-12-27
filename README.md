@@ -15,16 +15,12 @@ Now, update the following fields in `mkdocs.yml` file
 
 - `property` - if you need analytics, you can replace the google analytics tag for your repo with your own. Otherwise remove the `analytics` section completely
 
-## Help
-
-There is good documentation [here](./docs/local-development.md) for tasks that may be helpful. Feel free to check it out.
-
 ## Contribution
 
 Refer [contributing guidelines](./docs/CONTRIBUTING.md) for making contributions to the template.
 
-- Issue Tracker: https://github.com/learn-with-me/mkdocs-template/issues
-- Source Code: https://github.com/learn-with-me/mkdocs-template
+- Issue Tracker: https://github.com/learn-with-me/docs-best-practices-templates/issues
+- Source Code: https://github.com/learn-with-me/docs-best-practices-templates
 
 Support
 -------
