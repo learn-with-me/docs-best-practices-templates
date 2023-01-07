@@ -12,20 +12,19 @@ theme:
   font:
     text: Roboto
   palette: 
-
-    # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      toggle:
-        icon: material/brightness-7 
-        name: Switch to dark mode
-
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
-      scheme: slate
+      scheme: default
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
   features:
     - navigation.instant
     - navigation.tracking
@@ -40,4 +39,4 @@ extra:
   copyright: Copyright &copy; 2022 - 2023 goel4ever
   analytics:
     provider: google
-    property: G-RJP1KY6XG1
+    property: G-ABCD1234
