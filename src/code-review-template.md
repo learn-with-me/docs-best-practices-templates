@@ -2,8 +2,8 @@
 
 ## Template
 
-```
-[ABCD-1234](https://domain.com/ABCD-1234)
+```md
+[ABCD-1234](https://jira.com/ABCD-1234)
 
 ## What does this PR do?
 
@@ -15,7 +15,7 @@ Background on the problem you’re solving, its origin, and reason for choosing 
 
 ## What high level changes did you make to the code to accomplish that goal?
 
-A bulleted list of changes.
+* A bulleted list of changes.
 You can use the commits list that is auto-populated in the description if it is sufficiently thorough and clear.
 
 ## What other information should the reviewer be aware of when looking at this code?
@@ -32,7 +32,6 @@ And if someone wishes to verify the functionality, what path they could take.
 Outline the pending work (in bullets) that needs to be done.
 
 Attach screenshots if applicable
-
 ```
 
 ## Things to think about as PR owner

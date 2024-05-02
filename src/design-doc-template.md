@@ -4,7 +4,7 @@ Note: all section are recommended to be required.
 
 ## Template
 
-```
+```md
 RFC-###: <Title Here>
 
 Primary author(s):  Who owns this document and should be contacted about it?
