@@ -4,7 +4,7 @@ Always start with a few images and/or videos
 
 ## Template
 
-```
+```md
 ## Inspiration
 
 1. Why this project exists?

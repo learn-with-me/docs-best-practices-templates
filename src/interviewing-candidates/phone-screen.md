@@ -17,7 +17,7 @@ Interview Format
 ----------------
 To set expectations for this round, we'll aim to reserve
 - 10 minutes for introductions
-- 45 minutes for coding execise
+- 45 minutes for coding exercise
 - 5 minutes for any questions you may have
 
 My Introduction
