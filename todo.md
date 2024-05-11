@@ -1,5 +1,22 @@
 # Review this content first
 
+## GitHub profile
+
+### Examples
+
+* https://github.com/DenverCoder1/DenverCoder1?tab=readme-ov-file
+* https://github.com/mmphego/mmphego
+* https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file
+
+## Tools
+
+* https://github.com/rahul-jha98/README_icons
+* https://github.com/DenverCoder1/readme-typing-svg
+* https://github.com/jstrieb/github-stats
+* https://github.com/anuraghazra/github-readme-stats
+* https://github.com/gautamkrishnar/blog-post-workflow
+  * https://www.youtube.com/watch?v=ECuqb5Tv9qI&ab_channel=codeSTACKr
+
 ## Project Template
 
 - https://github.com/othneildrew/Best-README-Template
@@ -36,3 +53,10 @@
 ### Help
 
 - https://docs.github.com/en/get-started/quickstart/create-a-repo
+
+## Interesting Projects
+
+* https://github.com/rahul-jha98/PasswordKeeper
+* https://github.com/rahul-jha98/sheets-database
+* https://github.com/zumrudu-anka/javascript-minesweeper
+* https://github.com/anuraghazra/QuickerPoll
